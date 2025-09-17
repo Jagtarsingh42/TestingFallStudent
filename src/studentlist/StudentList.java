@@ -23,9 +23,10 @@ public class StudentList {
         s2.setSid(12);
         s2.setName("james");
         
+        //september 17
         Student s3 = new Student();
         s3.setSid(13);
-        s3.setName("tom");
+        s3.setName("tomholland");
         
         Student[] list = new Student[3];
         list[0]=s1;
@@ -37,3 +38,4 @@ public class StudentList {
     }
     
 }
+
