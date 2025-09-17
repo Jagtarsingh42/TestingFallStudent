@@ -21,11 +21,11 @@ public class StudentList {
         
         Student s2 = new Student();
         s2.setSid(12);
-        s2.setName("chun");
+        s2.setName("james");
         
         Student s3 = new Student();
         s3.setSid(13);
-        s3.setName("hala");
+        s3.setName("tom");
         
         Student[] list = new Student[3];
         list[0]=s1;
