@@ -11,6 +11,9 @@ package studentlist;
 public class Student {
     private int sid;
     private String name;
+    private int semester;
+    private String sei;
+    private int number;
     
     public int getSid() {
         return sid;
@@ -33,3 +36,4 @@ public class Student {
     }
     
 }
+
