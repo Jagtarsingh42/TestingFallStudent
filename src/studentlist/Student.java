@@ -14,6 +14,7 @@ public class Student {
     private int semester;
     private String sei;
     private int number;
+    private String code;
     
     public int getSid() {
         return sid;
@@ -36,4 +37,5 @@ public class Student {
     }
     
 }
+
 
